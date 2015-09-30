@@ -2,3 +2,4 @@
 
 # 1、资料汇总 
 
+1 官方文档必备：[http://facebook.github.io/react-native/docs/getting-started.html#content](官方文档)
