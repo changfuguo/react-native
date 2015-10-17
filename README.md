@@ -2,8 +2,10 @@
 
 # 1、资料汇总 
 
-1 官方文档必备：[http://facebook.github.io/react-native/docs/getting-started.html#content](官方文档)
-2 maven 国内镜像 及gradle的配置方法
+1   官方文档必备：[http://facebook.github.io/react-native/docs/getting-started.html#content](官方文档)
+
+
+2   maven 国内镜像 及gradle的配置方法
   天朝下载打包依赖实在是慢的要死，改成国内的 刷刷的，再也不用为翻墙发愁了
   [Gradle 修改 Maven 仓库地址](http://www.yrom.net/blog/2015/02/07/change-gradle-maven-repo-url/)
   
