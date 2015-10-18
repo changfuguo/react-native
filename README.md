@@ -21,7 +21,10 @@
 # 2常用组件 
 
 1、顶部是导航栏 下面的当行的内容  
-    [react-native-scrollable-tab-view](https://github.com/brentvatne/react-native-scrollable-tab-view)
-    看图
-    ![](https://raw.githubusercontent.com/brentvatne/react-native-scrollable-tab-view/master/demo.gif)
-    ![](https://raw.githubusercontent.com/brentvatne/react-native-scrollable-tab-view/master/demo-fb.gif)
+   
+      [react-native-scrollable-tab-view](https://github.com/brentvatne/react-native-scrollable-tab-view)
+    
+    
+       看图
+       ![](https://raw.githubusercontent.com/brentvatne/react-native-scrollable-tab-view/master/demo.gif)
+       ![](https://raw.githubusercontent.com/brentvatne/react-native-scrollable-tab-view/master/demo-fb.gif)
