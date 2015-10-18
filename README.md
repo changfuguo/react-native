@@ -29,3 +29,8 @@
 
 ![](https://raw.githubusercontent.com/brentvatne/react-native-scrollable-tab-view/master/demo.gif)
 ![](https://raw.githubusercontent.com/brentvatne/react-native-scrollable-tab-view/master/demo-fb.gif)
+
+
+2、字体代替图片
+demo期间 为了方便找一个字体做图标，不用放大N多个文件夹下 岂不是更好，于是找了[react-native-icons](https://github.com/corymsmith/react-native-icons)
+
