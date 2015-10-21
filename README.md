@@ -57,6 +57,7 @@ demo期间 为了方便找一个字体做图标，不用放大N多个文件夹�
 
 6、****[整理了一份React-Native学习指南 ](http://www.w3ctech.com/topic/909)*****
 
+7、****[JSPatch – 动态更新iOS APP](http://blog.cnbang.net/works/2767/)
 # 相关博主 
 
 1、[Jlog] (http://www.race604.com/)
