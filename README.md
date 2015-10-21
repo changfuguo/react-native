@@ -35,3 +35,11 @@
 
 demo期间 为了方便找一个字体做图标，不用放大N多个文件夹下 岂不是更好，于是找了[react-native-icons](https://github.com/corymsmith/react-native-icons)
 
+
+# 3开源的项目
+
+1 知乎日报 ：[ZhiHuDaily-React-Native](https://github.com/race604/ZhiHuDaily-React-Native)
+
+1) 安装 [React Native for Android 入门老虎](http://www.race604.com/react-native-for-android-start/)
+
+2) 安装包  [React Native for Android 发布独立安装包](http://www.race604.com/rn-android-standalone-apk/)
