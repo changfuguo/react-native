@@ -46,10 +46,14 @@ demo期间 为了方便找一个字体做图标，不用放大N多个文件夹�
 # 4开发文章
 
 1、[React Native模块桥接详解](http://www.dobest.me/post/react-native-bridge/)
+
 2、[React Native: Android 的打包](http://www.liaohuqiu.net/cn/posts/react-native-android-package/)
+
 3、安装 [React Native for Android 入门老虎](http://www.race604.com/react-native-for-android-start/)
+
 4、 安装包  [React Native for Android 发布独立安装包](http://www.race604.com/rn-android-standalone-apk/)
 
+5、 [React Native for Android 实践 -- 实现知乎日报客户端](http://www.race604.com/react-native-android-practice/)
 
 # 相关博主 
 
