@@ -55,6 +55,8 @@ demo期间 为了方便找一个字体做图标，不用放大N多个文件夹�
 
 5、 [React Native for Android 实践 -- 实现知乎日报客户端](http://www.race604.com/react-native-android-practice/)
 
+6、****[整理了一份React-Native学习指南 ](http://www.w3ctech.com/topic/909)*****
+
 # 相关博主 
 
 1、[Jlog] (http://www.race604.com/)
