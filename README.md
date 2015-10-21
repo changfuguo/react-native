@@ -1,6 +1,6 @@
 > 这里记录我在react-native开发过程中遇到的各种问题及相关资源汇总
 
-# 1、资料汇总 
+# 1、环境配置
 
 1   官方文档必备：[http://facebook.github.io/react-native/docs/getting-started.html#content](官方文档)
 
@@ -43,3 +43,8 @@ demo期间 为了方便找一个字体做图标，不用放大N多个文件夹�
 1) 安装 [React Native for Android 入门老虎](http://www.race604.com/react-native-for-android-start/)
 
 2) 安装包  [React Native for Android 发布独立安装包](http://www.race604.com/rn-android-standalone-apk/)
+
+
+# 4开发文章
+
+1、[React Native模块桥接详解](http://www.dobest.me/post/react-native-bridge/)
