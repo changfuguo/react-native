@@ -61,4 +61,7 @@ demo期间 为了方便找一个字体做图标，不用放大N多个文件夹�
 # 相关博主 
 
 1、[Jlog] (http://www.race604.com/)
+
 2、[srain](http://www.liaohuqiu.net/)
+
+3、[browniefed](http://browniefed.com/)
