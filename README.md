@@ -1,5 +1,6 @@
 > 这里记录我在react-native开发过程中遇到的各种问题及相关资源汇总
 
+ 
 # 1、环境配置
 
 1   官方文档必备：[http://facebook.github.io/react-native/docs/getting-started.html#content](官方文档)
@@ -58,10 +59,14 @@ demo期间 为了方便找一个字体做图标，不用放大N多个文件夹�
 6、****[整理了一份React-Native学习指南 ](http://www.w3ctech.com/topic/909)*****
 
 7、****[JSPatch – 动态更新iOS APP](http://blog.cnbang.net/works/2767/)
-# 相关博主 
+# 5 相关博主 
 
 1、[Jlog] (http://www.race604.com/)
 
 2、[srain](http://www.liaohuqiu.net/)
 
 3、[browniefed](http://browniefed.com/)
+
+# 6 开发工具
+
+1、 https://rnplay.org/apps/we3HnA  在线调试react-native
