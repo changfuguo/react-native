@@ -67,9 +67,10 @@ demo期间 为了方便找一个字体做图标，不用放大N多个文件夹�
 
 3、[browniefed](http://browniefed.com/)
 
+4、 [reactnative](http://www.reactnative.com/)  开源论坛
+
 # 6 开发工具
 
 1、 https://rnplay.org/apps/we3HnA  在线调试react-native
 
-
-<iframe style="width: 100%; height: 300px" src="http://sandbox.runjs.cn/show/5w5kmfap" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+ 
