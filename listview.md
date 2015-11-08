@@ -1,4 +1,4 @@
-# 1 listview常用用法
+# 1 react native listview常用用法
 
 listview作为展现数据的重要组件，应该被重视；我尝试着自己循环出来一个列表，发现在性能上远不及listview本身，看了api之后，发现在两个方面至少做了很好的优化
 
