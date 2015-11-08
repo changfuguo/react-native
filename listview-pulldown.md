@@ -1,9 +1,13 @@
 # react－native 之listview下拉刷新的尝试 
 
 react－native出来很久了，android版本也有两个月了，尝试着写了下android，可参考[doukanmv](https://github.com/changfuguo/doukanmv),写到半路发现下拉刷新暂时需要自己封装，查了下找到一个[react-native-refreshable-listview](https://github.com/jsdf/react-native-refreshable-listview)，最后更新都是几个月前的了，试了下果然不能用，于是自己想着尝试下，
-最后的效果如下：![pulldown](https://raw.githubusercontent.com/changfuguo/doukanmv/master/temp/pulldown.gif)
+最后的效果如下：
 
-下拉滚动的逻辑如下：![pulldown](https://raw.githubusercontent.com/changfuguo/doukanmv/master/temp/logic_for_pulldown.jpg)
+![pulldown](https://raw.githubusercontent.com/changfuguo/doukanmv/master/temp/pulldown.gif)
+
+下拉滚动的逻辑如下：
+
+![pulldown](https://raw.githubusercontent.com/changfuguo/doukanmv/master/temp/logic_for_pulldown.jpg)
 
 
 # 1、实验一：listview ＋ 绝对定位
