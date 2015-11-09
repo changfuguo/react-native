@@ -5,7 +5,7 @@ react－native出来很久了，android版本也有两个月了，尝试着写�
 
 ![pulldown](https://raw.githubusercontent.com/changfuguo/doukanmv/master/temp/pulldown.gif)
 
-下拉滚动的逻辑如下：
+下拉滚动的逻辑如下（图中‘是否正在刷新’ 处有误，n和y的位置反了）：
 
 ![pulldown](https://raw.githubusercontent.com/changfuguo/doukanmv/master/temp/logic_for_pulldown.jpg)
 
