@@ -61,9 +61,11 @@ demo期间 为了方便找一个字体做图标，不用放大N多个文件夹�
 7、****[JSPatch – 动态更新iOS APP](http://blog.cnbang.net/works/2767/)
 
 8、[react native的 生命周期](http://www.race604.com/react-native-component-lifecycle/)
-     本文详细介绍了reat native组件生命周期的几个过程，涉及到props 和state的创建、改变以及何时更改、销毁组件，值得一看
+ 
+ 本文详细介绍了reat native组件生命周期的几个过程，涉及到props 和state的创建、改变以及何时更改、销毁组件，值得一看
+ 
 9、 [使用 JS 构建跨平台的原生应用：React Native iOS 通信机制初探](http://taobaofed.org/blog/2015/12/30/the-communication-scheme-of-react-native-in-ios/)
-    还是有点干货，讲的前端er比较能看懂；打包到机制建议阅读
+   还是有点干货，讲的前端er比较能看懂；打包到机制建议阅读
 # 5 相关博主 
 
 1、[Jlog] (http://www.race604.com/)
