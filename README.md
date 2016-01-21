@@ -31,6 +31,10 @@
 ![](https://raw.githubusercontent.com/brentvatne/react-native-scrollable-tab-view/master/demo.gif)
 ![](https://raw.githubusercontent.com/brentvatne/react-native-scrollable-tab-view/master/demo-fb.gif)
 
+2、Listview向右滑动删除 
+[react-native-swipeout](https://github.com/dancormier/react-native-swipeout)
+
+![](https://camo.githubusercontent.com/b48b5dfb4a8ca88cb1408a9a0ff5aecd8f92ff4b/687474703a2f2f692e696d6775722e636f6d2f6f43514c4e46432e676966)
 
 2、字体代替图片
 
