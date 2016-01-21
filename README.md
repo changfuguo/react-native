@@ -68,6 +68,10 @@ demo期间 为了方便找一个字体做图标，不用放大N多个文件夹�
    还是有点干货，讲的前端er比较能看懂；打包到机制建议阅读
    
 10 、[react-native-webpack-server](https://github.com/mjohnston/react-native-webpack-server)
+
+11、[React Native通信机制详解](http://blog.cnbang.net/tech/2698/)
+
+
 # 5 相关博主 
 
 1、[Jlog] (http://www.race604.com/)
