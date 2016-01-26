@@ -39,6 +39,7 @@
 2、字体代替图片
 
 demo期间 为了方便找一个字体做图标，不用放大N多个文件夹下 岂不是更好，于是找了[react-native-icons](https://github.com/corymsmith/react-native-icons)
+不过用了下之后感觉不如这个好用，建议用这个 [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
 
 
 # 3开源的项目
