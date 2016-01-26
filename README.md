@@ -47,6 +47,7 @@ demo期间 为了方便找一个字体做图标，不用放大N多个文件夹�
 
 2、[awesome-react-boilerplates](http://habd.as/awesome-react-boilerplates/#react-native)
    该片文章里介绍了几个号的rn开发模版，很是不错
+   
    [snowflake](https://github.com/bartonhammond/snowflake) - A React-Native starter kit using Redux, Parse.com, Jest
    
    [react-native-webpack-starter-kit](https://github.com/jhabdas/react-native-webpack-starter-kit) - A minimalist boilerplate for starting React Native apps with Webpack and ES6/7 using Babel.
