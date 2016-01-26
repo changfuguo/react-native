@@ -45,7 +45,18 @@ demo期间 为了方便找一个字体做图标，不用放大N多个文件夹�
 
 1 知乎日报 ：[ZhiHuDaily-React-Native](https://github.com/race604/ZhiHuDaily-React-Native)
 
+2、[awesome-react-boilerplates](http://habd.as/awesome-react-boilerplates/#react-native)
+   该片文章里介绍了几个号的rn开发模版，很是不错
+   [snowflake](https://github.com/bartonhammond/snowflake) - A React-Native starter kit using Redux, Parse.com, Jest
+   
+   [react-native-webpack-starter-kit](https://github.com/jhabdas/react-native-webpack-starter-kit) - A minimalist boilerplate for starting React Native apps with Webpack and ES6/7 using Babel.
 
+   [react-native-es6-babel](https://github.com/roman01la/react-native-babel) - Configuration to build React Native apps with ES6 using webpack and Babel
+
+   [react-native-es6-reflux](https://github.com/filp/react-native-es6-reflux) - Boilerplate for iOS app development with React Native, ES6 and Reflux
+
+   [react-native-tabbed](https://github.com/rxb/react-native-tabbed) - An unassumingly but sweet base for a native app with tabbed navigation and modal window support. Builds on the
+work of react-native-navbar. See it in use with React Native Icons in my Smartphone Symphony app.
 
 
 # 4开发文章
