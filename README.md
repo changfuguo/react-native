@@ -88,7 +88,9 @@ work of react-native-navbar. See it in use with React Native Icons in my Smartph
 
 11、[React Native通信机制详解](http://blog.cnbang.net/tech/2698/)
 
+12、[ReactNative For Android 项目实战总结](http://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw==&mid=401483604&idx=1&sn=399cdf7e13fe6125108de1bfd045f2cf&scene=0#wechat_redirect)
 
+13、 [H5、React Native、Native应用对比分析](http://my.oschina.net/vczero/blog/597980?fromerr=YmkNRpKb)
 # 5 相关博主 
 
 1、[Jlog] (http://www.race604.com/)
