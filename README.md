@@ -41,7 +41,11 @@
 demo期间 为了方便找一个字体做图标，不用放大N多个文件夹下 岂不是更好，于是找了[react-native-icons](https://github.com/corymsmith/react-native-icons)
 不过用了下之后感觉不如这个好用，建议用这个 [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
 
-
+3、 读取native文件
+ [react-native-fs](https://github.com/johanneslumpe/react-native-fs)
+ 
+  这个个人感觉应该可能回用到，因为native和js之间可能会有一些通用的配置文件会读写
+  
 # 3开源的项目
 
 1 知乎日报 ：[ZhiHuDaily-React-Native](https://github.com/race604/ZhiHuDaily-React-Native)
