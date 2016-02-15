@@ -64,7 +64,10 @@ demo期间 为了方便找一个字体做图标，不用放大N多个文件夹�
    [react-native-tabbed](https://github.com/rxb/react-native-tabbed) - An unassumingly but sweet base for a native app with tabbed navigation and modal window support. Builds on the
 work of react-native-navbar. See it in use with React Native Icons in my Smartphone Symphony app.
 
+3、拉钩网的一个开源项目
 
+  [react-native-lagou](https://github.com/heruijun/react-native-lagou)
+  
 # 4开发文章
 
 1、[React Native模块桥接详解](http://www.dobest.me/post/react-native-bridge/)
