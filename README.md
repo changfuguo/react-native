@@ -91,6 +91,12 @@ work of react-native-navbar. See it in use with React Native Icons in my Smartph
 12、[ReactNative For Android 项目实战总结](http://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw==&mid=401483604&idx=1&sn=399cdf7e13fe6125108de1bfd045f2cf&scene=0#wechat_redirect)
 
 13、 [H5、React Native、Native应用对比分析](http://my.oschina.net/vczero/blog/597980?fromerr=YmkNRpKb)
+
+14、[React/React Native 的ES5 ES6写法对照表](http://bbs.reactnative.cn/topic/15/react-react-native-%E7%9A%84es5-es6%E5%86%99%E6%B3%95%E5%AF%B9%E7%85%A7%E8%A1%A8/2)
+
+ 好文，推荐，全面转向es6的写法
+ 
+ 
 # 5 相关博主 
 
 1、[Jlog] (http://www.race604.com/)
