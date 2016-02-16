@@ -68,6 +68,11 @@ work of react-native-navbar. See it in use with React Native Icons in my Smartph
 
   [react-native-lagou](https://github.com/heruijun/react-native-lagou)
   
+4、阅读类的app
+
+刚毕业的小伙子做的，实在是不错；用的是redux+react native，我也在学习这个项目中
+[reading](https://github.com/attentiveness/reading)
+  
 # 4开发文章
 
 1、[React Native模块桥接详解](http://www.dobest.me/post/react-native-bridge/)
