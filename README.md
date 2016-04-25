@@ -72,7 +72,11 @@ work of react-native-navbar. See it in use with React Native Icons in my Smartph
 
 刚毕业的小伙子做的，实在是不错；用的是redux+react native，我也在学习这个项目中
 [reading](https://github.com/attentiveness/reading)
-  
+ 对应的文章[React-Native-With-Redux](http://richardcao.me/2016/01/12/React-Native-With-Redux/)
+ 
+5、一个音乐的网站[soundredux-native](https://github.com/fraserxu/soundredux-native)
+相关的文章  [BUILDING A NATIVE SOUNDCLOUD ANDROID APP WITH REACT NATIVE AND REDUX](https://wiredcraft.com/blog/native-soundcloud-android-app/)
+
 # 4开发文章
 
 1、[React Native模块桥接详解](http://www.dobest.me/post/react-native-bridge/)
